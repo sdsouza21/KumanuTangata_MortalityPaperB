@@ -1,5 +1,5 @@
 # KumanuTangata_MortalityPaperB
-This repository contains code files for manuscript titled "Addressing Healthy Worker Effects in the Mortality of Former New Zealand First-Class Rugby Players: Career Length, Highest Playing Level, and Position". This is Paper B of two companion papers currently in preparation.
+This repository contains code files for manuscript titled "Addressing Healthy Worker Effects in the Mortality of Former New Zealand First-Class Rugby Players: Career Length, Highest Playing Level, and Position". This is Paper B of two companion papers currently in preparation. The repository for Paper A is available at https://github.com/sdsouza21/KumanuTangata_MortalityPaperA.
 # Project Abstract
 **Objective:** To assess healthy worker effects on mortality in former first-class male rugby players, using internal (career length, level played, position) and external (general population) comparison groups.
 
