@@ -34,10 +34,10 @@ Most models did not meet the proportional hazards assumption. Given the large nu
 3. Paper B Figure 2 mortality matches played hazard ratios.py
   - Python code for producing Figure 2
      
-5. Paper B Figure 3 mortality procode hazard ratios.py
+4. Paper B Figure 3 mortality procode hazard ratios.py
   - Python code for producing Figure 3
      
-7. Paper B Figure 4 mortality positional group hazard ratios.py
+5. Paper B Figure 4 mortality positional group hazard ratios.py
   - Python code for producing Figure 4
 
 
