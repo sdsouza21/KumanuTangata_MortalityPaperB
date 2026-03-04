@@ -26,19 +26,19 @@ Most models did not meet the proportional hazards assumption. Given the large nu
 
 # Table of contents
 1. Addressing Healthy Worker Effects in the Mortality of Former New Zealand First-Class Rugby Players_codefile.txt 
-- SAS and Stata code for data management and all analyses (including supplemental material)
+  - SAS and Stata code for data management and all analyses (including supplemental material)
   
 2. Paper B Figure 1 mortality years played hazard ratios.py
-- Python code for producing Figure 1
+  - Python code for producing Figure 1
   
 3. Paper B Figure 2 mortality matches played hazard ratios.py
-- Python code for producing Figure 2
+  - Python code for producing Figure 2
      
 5. Paper B Figure 3 mortality procode hazard ratios.py
-- Python code for producing Figure 3
+  - Python code for producing Figure 3
      
 7. Paper B Figure 4 mortality positional group hazard ratios.py
-- Python code for producing Figure 4
+  - Python code for producing Figure 4
 
 
 # Acknowledgements and authors
