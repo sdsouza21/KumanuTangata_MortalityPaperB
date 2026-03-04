@@ -25,20 +25,20 @@ Cox proportional hazards models were used to compare relative mortality rates be
 Most models did not meet the proportional hazards assumption. Given the large number of models, and to maintain parsimonious interpretation, hazard ratios (HR) should be interpreted as the average difference in rates of death between the groups across the follow-up period. It is important to acknowledge that this does not allow us to draw conclusion on time-varying risks; however, these are presented in our companion paper for overall cohort comparisons. Follow-up of mortality outcomes began from age 30, with right censoring for emigration, death, or the end of the study period (December 2020). For each cause-specific mortality analysis, participants were also right censored if their death was from other causes. The absolute risk difference between cohorts for each cause was reported per 1000 individuals. 
 
 # Table of contents
-1. Addressing Healthy Worker Effects in the Mortality of Former New Zealand First-Class Rugby Players_codefile.txt 
-  - SAS and Stata code for data management and all analyses (including supplemental material)
+1. Addressing Healthy Worker Effects in the Mortality of Former New Zealand First-Class Rugby Players_codefile.txt
+   - SAS and Stata code for data management and all analyses (including supplemental material)
   
 2. Paper B Figure 1 mortality years played hazard ratios.py
-  - Python code for producing Figure 1
+   - Python code for producing Figure 1
   
 3. Paper B Figure 2 mortality matches played hazard ratios.py
-  - Python code for producing Figure 2
+   - Python code for producing Figure 2
      
 4. Paper B Figure 3 mortality procode hazard ratios.py
-  - Python code for producing Figure 3
+   - Python code for producing Figure 3
      
 5. Paper B Figure 4 mortality positional group hazard ratios.py
-  - Python code for producing Figure 4
+   - Python code for producing Figure 4
 
 
 # Acknowledgements and authors
