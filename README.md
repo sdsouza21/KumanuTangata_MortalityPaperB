@@ -1,5 +1,5 @@
 # KumanuTangata_MortalityPaperB
-This repository contains code files for manuscript titled "Addressing Healthy Worker Effects in the Mortality of Former New Zealand First-Class Rugby Players: Career Length, Highest Playing Level, and Position". This is Paper B of two companion papers currently in preparation. The repository for Paper A is available at https://github.com/sdsouza21/KumanuTangata_MortalityPaperA.
+This repository contains code files for manuscript titled "Addressing Healthy Worker Effects in the Mortality of Former New Zealand First-Class Rugby Players: Career Length, Highest Playing Level, and Position". This is Paper B of two companion papers currently in preparation, and is part of the Kumanu Tāngata project (Stats NZ IDI project code MAA2016-21). The repository for Paper A is available at https://github.com/sdsouza21/KumanuTangata_MortalityPaperA.
 # Project Abstract
 **Objective:** To assess healthy worker effects on mortality in former first-class male rugby players, using internal (career length, level played, position) and external (general population) comparison groups.
 
@@ -69,4 +69,4 @@ We thank Statistics New Zealand and their staff for access to the Integrated Dat
 - Stephanie D’Souza, PhD
 
 # Stats NZ Disclaimer
-These results are not official statistics. They have been created for research purposes from the Integrated Data Infrastructure (IDI) which is carefully managed by Statistics New Zealand. For more information about the IDI please visit https://www.stats.govt.nz/integrated-data/.  
+Results produced are not official statistics. They have been created for research purposes from the Integrated Data Infrastructure (IDI) which is carefully managed by Statistics New Zealand. For more information about the IDI please visit https://www.stats.govt.nz/integrated-data/.  
